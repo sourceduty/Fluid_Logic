@@ -1,4 +1,4 @@
-![Water](https://github.com/user-attachments/assets/4f9b290a-ccfe-431b-ba44-9ec4577721ec)
+![Waters](https://github.com/user-attachments/assets/9ef51545-4f77-45d7-9f29-253de7f4b9b6)
 
 [Fluid Logic](https://chatgpt.com/g/g-686cb743b56481918bfa7309c5f31afd-fluid-logic) is an innovative programming paradigm that models conditional logic and decision-making processes through the analogy of fluid dynamics and valve control systems. In this model, the flow of control is represented as a network of interconnected valves, each with its own flow rate, pressure threshold, and state. These valves can be adjusted dynamically to change the behavior of the program based on varying conditions, creating a highly flexible and adaptive logic system. Instead of using traditional programming constructs like if/else statements, loops, or switches, Fluid Logic allows for a more intuitive way of thinking about decision-making, where conditions can be treated as variables that modify the behavior of a system in real-time. This dynamic representation of logic offers an alternative to rigid, linear programming techniques and is more adaptable to changing inputs or environments.
 
