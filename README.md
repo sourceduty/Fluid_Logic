@@ -37,3 +37,7 @@ Alex: _I added experimental 'flow' to binary logic._
 [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
 <br>
 [FlopV](https://github.com/sourceduty/FlopV)
+<br>
+[Integrated Ciruits](https://github.com/sourceduty/Integrated_Circuits)
+<br>
+[Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
