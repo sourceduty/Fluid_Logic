@@ -41,3 +41,5 @@ Alex: _I added experimental 'flow' to binary logic._
 [Integrated Ciruits](https://github.com/sourceduty/Integrated_Circuits)
 <br>
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
+<br>
+[Logic](https://github.com/sourceduty/Logic)
