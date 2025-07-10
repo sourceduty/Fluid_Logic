@@ -11,7 +11,7 @@ In practice, Fluid Logic enables programs to be more modular, scalable, and resp
 > [!TIP]
 > 10 alternative fluid logic gates are included for more flexibility and power in complex decision-making process models.
 
-<br>
+#
 
 The alternative fluid logic gates differ from the basic gates by introducing advanced features that allow for more dynamic, context-aware decision-making processes. While the basic gates, such as AND, OR, and XOR, focus on simple binary conditions where the flow is controlled based on straightforward logical evaluations (i.e., whether specific conditions are met), the alternative gates go beyond this simplicity by incorporating complex, real-world elements. For example, the Conditional Branching Gate (CBG) allows multiple conditions to dynamically affect the flow, and the Probabilistic Valve Gate (PVG) introduces randomness, enabling decisions based on predefined probabilities. Similarly, gates like the Event-Triggered Valve Gate (ETV) react to external events, while Time-Based Valve Gates (TBV) manage decisions over time, offering a more fluid, adaptable control system. These gates also include features like fuzzy logic, threshold-based control, hierarchical decision-making, and even machine learning-driven adaptability (such as the Adaptive Valve Gate, AV), which enhance the system's flexibility to handle evolving, complex conditions. Using only alternative gates to build a circuit would result in a highly unique and adaptive system, capable of responding not only to binary conditions but also to probabilistic, temporal, and event-driven inputs, leading to a more sophisticated, self-optimizing logic flow compared to traditional, binary-based logic systems.
 
