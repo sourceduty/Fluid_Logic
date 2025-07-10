@@ -1,0 +1,20 @@
+1) AND Gate: 
+   AND(condition1, condition2) = [flowA if (condition1 AND condition2), flowB otherwise]
+
+2) OR Gate: 
+   OR(condition1, condition2) = [flowA if (condition1 OR condition2), flowB otherwise]
+
+3) NOT Gate: 
+   NOT(condition) = [flowA if NOT condition, flowB otherwise]
+
+4) NAND Gate: 
+   NAND(condition1, condition2) = [flowA if NOT (condition1 AND condition2), flowB otherwise]
+
+5) NOR Gate: 
+   NOR(condition1, condition2) = [flowA if NOT (condition1 OR condition2), flowB otherwise]
+
+6) XOR Gate: 
+   XOR(condition1, condition2) = [flowA if (condition1 XOR condition2), flowB otherwise]
+
+7) XNOR Gate: 
+   XNOR(condition1, condition2) = [flowA if NOT (condition1 XOR condition2), flowB otherwise]
