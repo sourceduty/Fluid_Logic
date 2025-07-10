@@ -30,7 +30,7 @@ Fluid Logic provides a flexible and intuitive framework for modeling complex dec
 
 #
 
-Alex: _I added experimental 'flow' to binary logic._
+Alex: _I added experimental 'flow' to binary logic. Also, I made and added the 10 alternative fluid logic gates._
 
 #
 ![Experimental](https://github.com/user-attachments/assets/05cb383d-f372-4747-8351-6a4d9d03ff0c)
